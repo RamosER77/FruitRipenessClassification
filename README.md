@@ -35,5 +35,17 @@ Due to the large size of the image datasets, they are hosted on Google Drive. Pl
 
 ## 📁 Project Structure
 
-git status
-git status
+## 🙏 Acknowledgments
+
+Special thanks to my mentors @Praveen and @Ajith from Qualcomm for their invaluable guidance and support throughout this senior project.
+
+### Institution
+- California State University San Marcos
+- Senior Project, 2024
+
+### Project Advisor
+- Dr. Simon Fun - CSU San Marcos
+
+### Industry Mentors
+- Praveen Appu - AI Hub Qualcomm Research
+- Ajith Kemisetti - AI Hub Qualcomm Research
