@@ -1,0 +1,36 @@
+# Exclude large image datasets
+*/RipenessClassification_Sorted/
+*/RipenessClassification_Sorted_One/
+*/RealWorldBananaImagesTest/
+*/tomatoImagesRealData/
+*/MangoRealTestImages/
+BananaRipenessClassification_Sorted_One/
+Tomato/RipenessClassification_Sorted/
+Tomato/tomatoImagesRealData/
+Mango/RipenessClassification_Sorted/
+Mango/MangoRealTestImages/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
