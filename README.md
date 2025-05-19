@@ -41,7 +41,7 @@ Special thanks to my mentors @Praveen and @Ajith from Qualcomm for their invalua
 
 ### Institution
 - California State University San Marcos
-- Senior Project, 2024
+- Senior Project, 2025
 
 ### Project Advisor
 - Dr. Simon Fun - CSU San Marcos
