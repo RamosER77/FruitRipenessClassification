@@ -1,6 +1,6 @@
 # Fruit Ripeness Classification Using Computer Vision
 
-A deep learning project for automated classification of fruit ripeness levels for bananas, tomatoes, and mangoes.
+A deep learning project for automated classification of fruit ripeness levels for bananas, tomatoes, and mangoes. The AI Food Waste Reduction Assistant implements a range of advanced deep learning features specifically designed to recognize food items and predict their expiration dates. The development team trains and fine-tunes multiple computer vision models—including MobileNetV3Large—on diverse datasets of fruits at different ripeness stages. This training process involves image preprocessing, data augmentation, transfer learning, and fine-tuning, which enables the models to achieve high accuracy in classifying the ripeness of various fruits. Once the models are trained and validated, they are optimized using Qualcomm’s AI Hub tools for deployment directly onto Snapdragon devices, allowing them to run efficiently without relying on cloud connectivity. As a result, the app processes images in real time, assesses the ripeness of fruits through visual cues, and provides accurate predictions
 
 ## 📊 Dataset Access
 
